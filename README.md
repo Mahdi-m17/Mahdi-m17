@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Mahdi Mohammadi. I'm a college student right now, looking for learning more skills.<br>I have worked with C# and MySQL a little bit and I'm trying to learn more.<br><br>I'm working most with Python and libraries like Django and Matplotlib.
+Hello, my name is Mahdi Mohammadi. I'm a college student right now, looking for learning more skills.<br>I have worked most with Python and libraries like Django and Matplotlib and I'm trying to learn more.<br><br>I already have worked a little with C# and MySQL.
 
 
 ## 🌐 Socials:
